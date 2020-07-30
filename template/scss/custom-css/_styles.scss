@@ -1,1 +1,137 @@
 // Add your custom CSS here.
+@media  screen and (min-width: 1368px) {
+  .pswp__zoom-wrap img {
+    height: 1000px !important;
+    width: auto !important;
+  }
+}
+
+//desktop normal size
+@media  screen and (min-width: 992px) and (max-width: 1367px) {
+  //slider full
+  .banner-slider {
+    max-width: 100%;
+  }
+  .pswp__zoom-wrap img {
+    height: 1000px !important;
+    width: auto !important;
+  }
+}
+// apenas tablet
+@media screen and (min-width: 481px) and (max-width: 991px) {
+  .pswp__zoom-wrap img {
+    height: 1000px !important;
+    width: auto !important;
+  }
+  .pswp__zoom-wrap {
+    transform: translate3d(6%, 1%, 0) scale(1) !important;
+  }
+}
+// apenas mobile
+@media screen and (max-width: 480px) {
+  .pswp__zoom-wrap img {
+    height: 400px !important;
+    width: auto !important;
+  }
+  .pswp__zoom-wrap {
+    transform: translate3d(18%, 20%, 0) scale(1) !important;
+  }
+}
+.header {
+  & #user-button i, & #cart-button i, &__toggler-icon {
+    color: #fff;
+  }
+  background: #a07671
+}
+.top-bar {
+  @media (min-width: 768px) {
+    &__countdown {
+      display: none;
+    }
+  }
+  &__countdown, &__nav {
+    background: #a07671 !important;
+    color: #fff;
+  }
+  background: #a07671 !important;
+}
+.product__buy button {
+  background: green;
+  border: none;
+  border-radius: 0;
+}
+#search-form {
+  background: #f1f1f1;
+  border-radius: 0;
+}
+.header__search-btn {
+  color: #333;
+}
+.header__nav a {
+  &:hover {
+    background: #fff;
+    color: #a07671;
+  }
+  padding: 10px 16px;
+  color: #fff;
+  border-radius: 0;
+}
+.menu__list a:hover {
+  background: #a07671;
+  color: #fff;
+}
+#product .row .col {
+  &> span {
+    order: 1
+  }
+  & .product__rating {
+    order: 2
+  }
+  & .product__prices {
+    order: 1
+  }
+  & span:last-child {
+    order: 4
+  }
+  & .variations {
+    order: 5
+  }
+  & .product__buy {
+    order: 6
+  }
+  & .product__short-stock {
+    &+ .mb-3 {
+      order: 8
+    }
+    order: 7
+  }
+  & .shipping-calculator {
+    order: 9
+  }
+  & .product__track-price {
+    order: 10
+  }
+  display: flex;
+  flex-direction: column;
+}
+#inicio {
+  background: #fff;
+  color: #a07671;
+}
+.products-carousel__title {
+  & a {
+    text-transform: uppercase;
+  }
+  &::before {
+    background: none;
+  }
+  position: relative;
+  border-bottom: 1.2px solid #efefef;
+  text-align: start;
+}
+.footer {
+  &__title {
+    color: #e26f8a
+  }
+  background: #f1f1f1;
+}

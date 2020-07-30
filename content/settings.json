@@ -1,16 +1,17 @@
 {
   "store_id": 1135,
-  "name": "cristiane-resende",
-  "domain": "cristiane-resende-loja.netlify.app",
+  "name": "Cristiane Resende",
+  "domain": "Cristiane-Resende.netlify.app",
   "short_name": "cristiane-resende",
   "description": "cristiane-resende",
   "primary_color": "#313131",
   "secondary_color": "#e36159",
-  "bg_color": "#fff",
+  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/logo-cr-white.png",
   "mini_logo": "",
   "icon": "/img/icon.png",
   "large_icon": "/img/large-icon.png",

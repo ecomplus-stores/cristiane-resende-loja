@@ -129,18 +129,20 @@ if (header.categories_list) {
       </div>
 
       <div class="col col-lg-auto pl-1 pl-md-2 pl-lg-3">
-        <a href="/">
-          <% if (logo && logo.url) { %>
-            <img
-              id="logo"
-              class="header__logo"
-              src="<%= logo.url %>"
-              alt="<%= logo.alt %>"
-            >
-          <% } else { %>
-            <%= _.settings.name || _.store.name %>
-          <% } %>
-        </a>
+        <h1>
+          <a href="/" title="Cristiane Resende - Moda Feminina, Moda Evangélica e Moda Executiva" rel="home">
+            <% if (logo && logo.url) { %>
+              <img
+                id="logo"
+                class="header__logo"
+                src="<%= logo.url %>"
+                alt="Cristiane Resende"
+              >
+            <% } else { %>
+              <%= _.settings.name || _.store.name %>
+            <% } %>
+          </a>
+        </h1>
       </div>
 
       <div class="order-lg-last col-auto p-0">
@@ -254,6 +256,7 @@ if (header.categories_list) {
       <% if (categories && categories.length) { %>
         <div class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col' %>">
           <nav class="header__nav<%= isCategoriesNavFull ? ' header__nav--full' : '' %>">
+            <a id="inicio" href="/">Início</a>
             <% categories.forEach(({ slug, name }) => { %>
               <a href="javascript:;" onclick="toggleSidenav('<%= slug %>')">
                 <%= ` ${name} ` %>

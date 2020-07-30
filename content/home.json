@@ -7,23 +7,52 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
+          "img": "/img/uploads/site-9_Easy-Resize.jpg",
+          "link": "/",
+          "alt": "",
+          "mobile_img": "/img/uploads/site-4_Easy-Resize.jpg",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "end": ""
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/site-8_Easy-Resize.jpg",
           "alt": "Banner sample two",
+          "mobile_img": "/img/uploads/site-6_Easy-Resize.jpg",
+          "start": "",
+          "end": ""
+        },
+        {
+          "img": "/img/uploads/site-7_Easy-Resize.jpg",
+          "alt": "Banner sample 3",
+          "mobile_img": "/img/uploads/site-5_Easy-Resize.jpg",
           "start": "",
           "end": ""
         }
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/site-1_Easy-Resize.jpg",
+          "alt": "Vestidos",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/site-3_Easy-Resize.jpg",
+          "alt": "Blusas",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/site-2_Easy-Resize.jpg",
+          "alt": "Saias",
+          "link": ""
+        }
+      ]
+    },
+    {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",

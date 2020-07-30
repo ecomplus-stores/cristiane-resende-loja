@@ -80,40 +80,6 @@
   background: #a07671;
   color: #fff;
 }
-#product .row .col {
-  &> span {
-    order: 1
-  }
-  & .product__rating {
-    order: 2
-  }
-  & .product__prices {
-    order: 1
-  }
-  & span:last-child {
-    order: 4
-  }
-  & .variations {
-    order: 5
-  }
-  & .product__buy {
-    order: 6
-  }
-  & .product__short-stock {
-    &+ .mb-3 {
-      order: 8
-    }
-    order: 7
-  }
-  & .shipping-calculator {
-    order: 9
-  }
-  & .product__track-price {
-    order: 10
-  }
-  display: flex;
-  flex-direction: column;
-}
 #inicio {
   background: #fff;
   color: #a07671;

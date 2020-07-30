@@ -59,11 +59,6 @@
           <% if (_.state.variations && _.state.variations.length) { %>
             <div data-slot="variations-info">
               <!-- Custom info for products with variations, such as sizes table link -->
-              <% if (_.state.videos[0].url) { %>
-                <div id="video" class="embed-responsive embed-responsive-4by3 mb-3">
-                  <iframe src="<%= _.state.videos[0].url %>" allowfullscreen="allowfullscreen" class="embed-responsive-item"></iframe>
-                </div>
-             <% } %>
             </div>
           <% } %>
 

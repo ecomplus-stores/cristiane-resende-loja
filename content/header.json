@@ -10,16 +10,12 @@
         "link": "/pages/revendedor"
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": false
   },
   "categories_list": {
-    "featured": [
-      "/cristiane-resende?CRISTIANE RESENDE",
-      "/colecoes?COLEÇÕES",
-      "/loja?LOJA"
-    ],
-    "random": 6,
+    "featured": [],
+    "random": 3,
     "full_width": false
   },
   "search_input": true

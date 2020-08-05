@@ -14,7 +14,11 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/cristiane-resende?CRISTIANE RESENDE",
+      "/colecoes?COLEÇÕES",
+      "/loja?LOJA"
+    ],
     "random": 6,
     "full_width": false
   },

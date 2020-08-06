@@ -33,6 +33,17 @@
     height: 400px !important;
     width: auto !important;
   }
+  .checkout__step--current::after {
+    content: '\A aba ativa';
+    white-space: pre;
+  }
+  .checkout__step--past::after {
+    content: '\A editar frete';
+    white-space: pre;
+  }
+  .checkout__col:first-child > .d-none {
+    display: block !important;
+  }
   .pswp__zoom-wrap {
     transform: translate3d(18%, 20%, 0) scale(1) !important;
   }

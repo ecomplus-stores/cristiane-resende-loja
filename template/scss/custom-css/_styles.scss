@@ -127,3 +127,32 @@
    color: var(--secondary);
    pointer-events: none;
 }
+.product__prices {
+  .prices {
+    & strong {
+    order: 2;
+    font-size: var(--font-size) !important;
+    color: #000;
+    }
+    &> span {
+    .prices__discount {
+      & span {
+        font-size: 25px;
+        color: #a07671;
+      }
+        order: 1;
+    }
+    .prices__installments {
+      &::after {
+        content: "ou"
+      }
+      order: 2;
+    }
+    order: 1;
+    display: flex;
+    flex-direction: column;
+    }
+  display: flex;
+  flex-direction: column
+}
+}

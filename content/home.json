@@ -64,7 +64,8 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
-      "title": "VITRINE DO DIA"
+      "title": "VITRINE DO DIA",
+      "sort": "news"
     },
     {
       "type": "custom-html",

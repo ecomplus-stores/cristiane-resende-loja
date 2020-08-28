@@ -115,6 +115,9 @@
 .product-card, .products-carousel__item {
   padding: 0;
 }
+.prices__value, .cart__summary-row, .summary__amount__row:first-child {
+  display: none !important;
+}
 .search-engine__retail .row .col-6.col-md-4.col-lg-3, .search-engine__results .container {
   padding-left: .2rem;
   padding-right: .2rem;
@@ -147,10 +150,6 @@
         order: 1;
     }
     .prices__installments {
-      &::after {
-        content: "ou 1x por";
-        font-weight: normal;
-      }
       order: 2;
       font-weight: bold !important;
       font-size: 1.1rem;

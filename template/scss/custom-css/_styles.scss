@@ -168,3 +168,7 @@ font-weight: normal;
 .menu__btn--close, .menu__btn.btn.collapsed {
 color: #000;
 }
+//hide zoom
+.pswp--open {
+   display: none !important;
+}

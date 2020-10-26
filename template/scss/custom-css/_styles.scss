@@ -47,6 +47,14 @@
   .products-carousel .glide__arrows i {
     font-size: 1rem !important;
   }
+    #scrollToBuy {
+    width: 100%;
+    position:fixed;
+    bottom:19px;
+    z-index:2000;
+    cursor:pointer;
+    outline:none!important
+  }
 }
 .header {
   & #user-button i, & #cart-button i, &__toggler-icon {
@@ -172,3 +180,12 @@ color: #000;
 .pswp--open {
    display: none !important;
 }
+.shipping-calculator__services::before {
+  content: "ESCOLHA SUA FORMA DE ENVIO";
+  font-weight: bold;
+  font-size: 1rem;
+}
+.account-addresses__card + button {
+  display: none;
+}
+

@@ -7,32 +7,32 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/30_easy-resize.com-2-.jpg",
+          "img": "/img/uploads/5_easy-resize.com-9-.jpg",
           "link": "/",
           "alt": "",
-          "mobile_img": "/img/uploads/26_easy-resize.com-2-.jpg",
-          "start": "2020-04-11T05:54:06.750Z",
+          "mobile_img": "/img/uploads/1_easy-resize.com-9-.jpg",
+          "start": "2021-01-26T17:05:30.777Z",
           "end": ""
         },
         {
-          "img": "/img/uploads/31_easy-resize.com-2-.jpg",
+          "img": "/img/uploads/6_easy-resize.com-9-.jpg",
           "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/29_easy-resize.com-2-.jpg",
-          "start": "",
+          "mobile_img": "/img/uploads/2_easy-resize.com-11-.jpg",
+          "start": "2021-01-26T17:05:25.817Z",
           "end": ""
         },
         {
-          "img": "/img/uploads/33_easy-resize.com-2-.jpg",
+          "img": "/img/uploads/7_easy-resize.com-8-.jpg",
           "alt": "Banner sample 3",
-          "mobile_img": "/img/uploads/28_easy-resize.com-2-.jpg",
-          "start": "",
+          "mobile_img": "/img/uploads/3_easy-resize.com-9-.jpg",
+          "start": "2021-01-26T17:05:20.289Z",
           "end": ""
         },
         {
-          "start": "2020-08-24T19:54:03.782Z",
+          "start": "2021-01-26T17:05:14.749Z",
           "end": "",
-          "img": "/img/uploads/32_easy-resize.com-2-.jpg",
-          "mobile_img": "/img/uploads/27_easy-resize.com-2-.jpg"
+          "img": "/img/uploads/8_easy-resize.com-11-.jpg",
+          "mobile_img": "/img/uploads/4_easy-resize.com-9-.jpg"
         }
       ]
     },
@@ -40,17 +40,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/23_easy-resize.com-6-.jpg",
+          "img": "/img/uploads/9_easy-resize.com-10-.jpg",
           "alt": "Vestidos",
           "link": "https://cristianeresende.com.br/vestidos"
         },
         {
-          "img": "/img/uploads/24_easy-resize.com-3-.jpg",
+          "img": "/img/uploads/11_easy-resize.com-8-.jpg",
           "alt": "Blusas",
           "link": "https://cristianeresende.com.br/saias"
         },
         {
-          "img": "/img/uploads/25_easy-resize.com-2-.jpg",
+          "img": "/img/uploads/10_easy-resize.com-10-.jpg",
           "alt": "Saias",
           "link": "https://cristianeresende.com.br/blusas"
         }

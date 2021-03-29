@@ -4,11 +4,11 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 3000,
       "slides": [
         {
           "img": "/img/uploads/banner-site_easy-resize.com.jpg",
-          "link": "/",
+          "link": "/https://cristianeresende.com.br/colecao-refugio",
           "alt": "",
           "mobile_img": "/img/uploads/mobile_easy-resize.com.jpg",
           "start": "2021-01-26T17:05:30.777Z",

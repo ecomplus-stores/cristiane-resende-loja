@@ -10,8 +10,8 @@
         "link": "/pages/revendedor"
       }
     ],
-    "phone_wpp": false,
-    "socials": false
+    "phone_wpp": true,
+    "socials": true
   },
   "categories_list": {
     "featured": [],

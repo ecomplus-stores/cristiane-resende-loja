@@ -32,17 +32,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/site-1_easy-resize.com-1-.jpg",
+          "img": "/img/uploads/s47.jpg",
           "alt": "Vestidos",
           "link": "https://cristianeresende.com.br/vestidos"
         },
         {
-          "img": "/img/uploads/site-2_easy-resize.com-1-.jpg",
+          "img": "/img/uploads/s48.jpg",
           "alt": "Blusas",
           "link": "https://cristianeresende.com.br/saias"
         },
         {
-          "img": "/img/uploads/site-3_easy-resize.com-1-.jpg",
+          "img": "/img/uploads/s49.jpg",
           "alt": "Saias",
           "link": "https://cristianeresende.com.br/blusas"
         }

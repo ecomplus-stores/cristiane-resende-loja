@@ -7,30 +7,24 @@
       "autoplay": 3000,
       "slides": [
         {
-          "img": "/img/uploads/banner-site_easy-resize.com.jpg",
+          "img": "/img/uploads/s41_easy-resize.com.jpg",
           "link": "",
           "alt": "",
-          "mobile_img": "/img/uploads/mobile_easy-resize.com.jpg",
+          "mobile_img": "/img/uploads/s44_easy-resize.com.jpg",
           "start": "2021-03-29T18:09:06.042Z",
           "end": ""
         },
         {
           "start": "2021-03-29T18:09:00.121Z",
           "end": "",
-          "img": "/img/uploads/site-4_easy-resize.com-1-.jpg",
-          "mobile_img": "/img/uploads/site-9_easy-resize.com-1-.jpg"
+          "img": "/img/uploads/s42_easy-resize.com.jpg",
+          "mobile_img": "/img/uploads/s46_easy-resize.com.jpg"
         },
         {
           "start": "2021-03-29T18:08:52.840Z",
           "end": "",
-          "img": "/img/uploads/site-5_easy-resize.com-1-.jpg",
-          "mobile_img": "/img/uploads/site-7_easy-resize.com-1-.jpg"
-        },
-        {
-          "start": "2021-03-29T17:54:47.033Z",
-          "end": "",
-          "img": "/img/uploads/site-6_easy-resize.com-1-.jpg",
-          "mobile_img": "/img/uploads/site-8_easy-resize.com-1-.jpg"
+          "img": "/img/uploads/s43_easy-resize.com.jpg",
+          "mobile_img": "/img/uploads/s45_easy-resize.com.jpg"
         }
       ]
     },

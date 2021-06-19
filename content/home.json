@@ -7,24 +7,12 @@
       "autoplay": 3000,
       "slides": [
         {
-          "img": "/img/uploads/s41_easy-resize.com.jpg",
+          "img": "/img/uploads/site_easy-resize.com.jpg",
           "link": "",
           "alt": "",
-          "mobile_img": "/img/uploads/s44_easy-resize.com.jpg",
+          "mobile_img": "/img/uploads/site2_easy-resize.com.jpg",
           "start": "2021-03-29T18:09:06.042Z",
           "end": ""
-        },
-        {
-          "start": "2021-03-29T18:09:00.121Z",
-          "end": "",
-          "img": "/img/uploads/s42_easy-resize.com.jpg",
-          "mobile_img": "/img/uploads/s46_easy-resize.com.jpg"
-        },
-        {
-          "start": "2021-03-29T18:08:52.840Z",
-          "end": "",
-          "img": "/img/uploads/s43_easy-resize.com.jpg",
-          "mobile_img": "/img/uploads/s45_easy-resize.com.jpg"
         }
       ]
     },
@@ -32,17 +20,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/s47.jpg",
+          "img": "/img/uploads/qa.jpg",
           "alt": "Vestidos",
           "link": "https://cristianeresende.com.br/vestidos"
         },
         {
-          "img": "/img/uploads/s48.jpg",
+          "img": "/img/uploads/qa2.jpg",
           "alt": "Blusas",
           "link": "https://cristianeresende.com.br/saias"
         },
         {
-          "img": "/img/uploads/s49.jpg",
+          "img": "/img/uploads/qa3.jpg",
           "alt": "Saias",
           "link": "https://cristianeresende.com.br/blusas"
         }

@@ -7,10 +7,10 @@
       "autoplay": 3000,
       "slides": [
         {
-          "img": "/img/uploads/site_easy-resize.com.jpg",
-          "link": "",
+          "img": "/img/uploads/site-aq.jpg",
+          "link": "https://cristianeresende.com.br/colecao-sintonia",
           "alt": "",
-          "mobile_img": "/img/uploads/site2_easy-resize.com.jpg",
+          "mobile_img": "/img/uploads/site-aq4.jpg",
           "start": "2021-03-29T18:09:06.042Z",
           "end": ""
         }
@@ -20,18 +20,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/qa.jpg",
+          "img": "/img/uploads/site-aq1.jpg",
           "alt": "Vestidos",
           "link": "https://cristianeresende.com.br/vestidos"
         },
         {
-          "img": "/img/uploads/qa2.jpg",
-          "alt": "Blusas",
-          "link": "https://cristianeresende.com.br/saias"
+          "img": "/img/uploads/site-aq2.jpg",
+          "alt": "SAIAS",
+          "link": "https://cristianeresende.com.br/saias",
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/qa3.jpg",
-          "alt": "Saias",
+          "img": "/img/uploads/site-aq3.jpg",
+          "alt": "BLUSAS",
           "link": "https://cristianeresende.com.br/blusas"
         }
       ]

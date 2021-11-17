@@ -7,10 +7,10 @@
       "autoplay": 3000,
       "slides": [
         {
-          "img": "/img/uploads/1.jpg",
+          "img": "/img/uploads/site.jpg",
           "link": "https://cristianeresende.com.br/colecao-sintonia",
           "alt": "",
-          "mobile_img": "/img/uploads/3.jpg",
+          "mobile_img": "/img/uploads/site2.jpg",
           "start": "2021-03-29T18:09:06.042Z",
           "end": ""
         }
@@ -20,18 +20,18 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/4.jpg",
+          "img": "/img/uploads/site3.jpg",
           "alt": "Vestidos",
           "link": "https://cristianeresende.com.br/vestidos"
         },
         {
-          "img": "/img/uploads/5.jpg",
+          "img": "/img/uploads/site4.jpg",
           "alt": "SAIAS",
           "link": "https://cristianeresende.com.br/saias",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/6.jpg",
+          "img": "/img/uploads/site5.jpg",
           "alt": "BLUSAS",
           "link": "https://cristianeresende.com.br/blusas"
         }
@@ -43,10 +43,10 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": null,
       "title": "VITRINE DO DIA",
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "custom-html",

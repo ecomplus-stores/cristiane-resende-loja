@@ -7,10 +7,10 @@
       "autoplay": 3000,
       "slides": [
         {
-          "img": "/img/uploads/site.jpg",
+          "img": "/img/uploads/capa-5.jpg",
           "link": "https://cristianeresende.com.br/colecao-glamour",
           "alt": "",
-          "mobile_img": "/img/uploads/site2.jpg",
+          "mobile_img": "/img/uploads/capa-4.png",
           "start": "2021-03-29T18:09:06.042Z",
           "end": ""
         }

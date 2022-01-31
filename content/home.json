@@ -21,18 +21,18 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/site3.jpg",
+          "img": "/img/uploads/site-6.jpg",
           "alt": "Vestidos",
           "link": "https://cristianeresende.com.br/vestidos"
         },
         {
-          "img": "/img/uploads/site4.jpg",
+          "img": "/img/uploads/site-7.jpg",
           "alt": "SAIAS",
           "link": "https://cristianeresende.com.br/saias",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/site5.jpg",
+          "img": "/img/uploads/site-8.jpg",
           "alt": "BLUSAS",
           "link": "https://cristianeresende.com.br/blusas"
         }

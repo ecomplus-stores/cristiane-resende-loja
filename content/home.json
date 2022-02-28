@@ -7,12 +7,18 @@
       "autoplay": 3000,
       "slides": [
         {
-          "img": "/img/uploads/site3.jpg",
+          "img": "/img/uploads/capa-2.jpg",
           "link": "https://cristianeresende.com.br/colecao-leveza",
           "alt": "",
-          "mobile_img": "/img/uploads/site-4.jpg",
+          "mobile_img": "/img/uploads/capa-3.jpg",
           "start": "2021-03-29T18:09:06.042Z",
           "end": ""
+        },
+        {
+          "start": "2022-02-28T18:21:36.524Z",
+          "end": "2022-02-28T18:21:36.554Z",
+          "mobile_img": "/img/uploads/capa-4.jpg",
+          "img": "/img/uploads/capa-1.jpg"
         }
       ],
       "full_width": true

@@ -7,7 +7,7 @@
       "autoplay": 3,
       "slides": [
         {
-          "img": "/img/uploads/124_easy-resize.com-1-.jpg",
+          "img": "/img/uploads/banner1pc.jpg",
           "link": "https://cristianeresende.com.br/colecao-el-afecto",
           "alt": "",
           "mobile_img": "/img/uploads/site-001_easy-resize.com.jpg",
@@ -17,8 +17,8 @@
         {
           "start": "2022-02-28T18:21:36.524Z",
           "end": "2022-02-28T18:21:36.554Z",
-          "mobile_img": "/img/uploads/capa-4.jpg",
-          "img": "/img/uploads/capa-1.jpg",
+          "mobile_img": "/img/uploads/banner1celular.jpg",
+          "img": "/img/uploads/banner1pc2.jpg",
           "link": "https://cristianeresende.com.br/colecao-cr-inspira"
         }
       ],

@@ -20,18 +20,18 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/147547.jpg",
+          "img": "/img/uploads/fluidos.jpg",
           "alt": "Vestidos Fluídos",
           "link": "https://cristianeresende.com.br/vestidos-fluidos"
         },
         {
-          "img": "/img/uploads/site147.jpg",
+          "img": "/img/uploads/justos.jpg",
           "alt": "Vestidos Justos",
           "link": "https://cristianeresende.com.br/vestidos-justos",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/147549.jpg",
+          "img": "/img/uploads/todos.jpg",
           "alt": "Todos os Vestidos",
           "link": "https://cristianeresende.com.br/todos-os-vestidos"
         }

@@ -43,7 +43,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": "61f7e5387963422eeedf486a:collections:COLEÇÃO BRISAS:/colecaobrisas",
       "title": "LANÇAMENTOS DO MÊS",
       "sort": "news"

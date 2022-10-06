@@ -9,8 +9,8 @@
         {
           "start": "2022-07-29T11:42:17.171Z",
           "end": "2022-11-10T18:21:36.554Z",
-          "mobile_img": "/img/uploads/capa-varejo-2.jpg",
-          "img": "/img/uploads/capa-varejo.jpg",
+          "mobile_img": "/img/uploads/site-capa.jpg",
+          "img": "/img/uploads/site1.jpg",
           "link": "https://cristianeresende.com.br/colecao-brisas"
         }
       ],
@@ -20,18 +20,18 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/fluidos.jpg",
+          "img": "/img/uploads/site-3.jpg",
           "alt": "Vestidos Fluídos",
           "link": "https://cristianeresende.com.br/vestidos-fluidos"
         },
         {
-          "img": "/img/uploads/justos.jpg",
+          "img": "/img/uploads/site-2.jpg",
           "alt": "Vestidos Justos",
           "link": "https://cristianeresende.com.br/vestidos-justos",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/todos.jpg",
+          "img": "/img/uploads/site-4.jpg",
           "alt": "Todos os Vestidos",
           "link": "https://cristianeresende.com.br/todos-os-vestidos"
         }

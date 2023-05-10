@@ -43,7 +43,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "title": "LANÇAMENTOS DO MÊS",
       "sort": "news"
     }

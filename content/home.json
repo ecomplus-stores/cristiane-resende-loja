@@ -12,6 +12,13 @@
           "mobile_img": "/img/uploads/site-4_easy-resize.com.jpg",
           "img": "/img/uploads/site-1_easy-resize.com.jpg",
           "link": "https://cristianeresende.com.br/colecao-sintonia"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/site-2_easy-resize.com.jpg",
+          "link": "https://cristianeresende.com.br/linha-angel",
+          "mobile_img": "/img/uploads/site-3_easy-resize.com.jpg"
         }
       ],
       "full_width": true

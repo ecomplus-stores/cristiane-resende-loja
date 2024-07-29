@@ -46,6 +46,14 @@
       "shuffle": true,
       "title": "LANÇAMENTOS DO MÊS",
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66a39628f4e6d85ab2e021eb:categories:ANIVESÁRIO CR - 24 HORAS DE DESCONTO NOS MELHORES LOOKS:/anivesario-cr-2024",
+      "title": "ANIVERSÁRIO CR - 24 HORAS DE DESCONTO"
     }
   ]
 }

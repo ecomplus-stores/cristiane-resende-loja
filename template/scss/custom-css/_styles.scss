@@ -194,3 +194,13 @@ display: none !important
 .login-modal__btn--facebook, .login-modal__btn--google, .login-modal__btn--windowslive, .login__oauth {
   display: none !important;
 }
+//desconto no pix
+.prices__discount-label:before {
+    content: '(25% OFF)';
+    color: #a07671;
+    font-size: 20px;
+    font-weight: bold;
+}
+.product__discount {
+    display: none;
+}

@@ -20,7 +20,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/capa-modelos-fluidos.jpg",
+          "img": "/img/uploads/modelos-fluidos.jpg",
           "alt": "Vestidos Fluídos",
           "link": "https://cristianeresende.com.br/vestidos-fluidos"
         },
@@ -31,7 +31,7 @@
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/capa-todos-os-modelos.jpg",
+          "img": "/img/uploads/todos-os-modelos.jpg",
           "alt": "Todos os Modelos",
           "link": "https://cristianeresende.com.br/todos-os-vestidos"
         }

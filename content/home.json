@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 2000,
+      "autoplay": 5000,
       "slides": [
         {
           "start": "2024-11-28T12:37:44.997Z",
@@ -12,6 +12,27 @@
           "mobile_img": "/img/uploads/capas-site-2.jpg",
           "img": "/img/uploads/capas-site-1.jpg",
           "link": "https://cristianeresende.com.br/colecao-mulher-de-luz"
+        },
+        {
+          "start": "2024-12-12T13:10:42.935Z",
+          "end": "",
+          "img": "/img/uploads/colecao-ciclos_easy-resize.com-1-.jpg",
+          "link": "https://cristianeresende.com.br/colecao-ciclos",
+          "mobile_img": "/img/uploads/colecao-ciclos-2_easy-resize.com-1-.jpg"
+        },
+        {
+          "start": "2024-12-12T12:43:29.056Z",
+          "end": "",
+          "img": "/img/uploads/colecao-iluminar_easy-resize.com.jpg",
+          "link": "https://cristianeresende.com.br/colecao-iluminar",
+          "mobile_img": "/img/uploads/colecao-iluminar-2_easy-resize.com.jpg"
+        },
+        {
+          "start": "2024-12-12T12:46:27.999Z",
+          "end": "",
+          "img": "/img/uploads/frete-gratis_easy-resize.com.jpg",
+          "mobile_img": "/img/uploads/frete-gratis-2_easy-resize.com.jpg",
+          "link": "https://cristianeresende.com.br/todos-os-vestidos"
         }
       ],
       "full_width": true

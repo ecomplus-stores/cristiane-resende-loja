@@ -33,6 +33,13 @@
           "img": "/img/uploads/frete-gratis_easy-resize.com.jpg",
           "mobile_img": "/img/uploads/frete-gratis-2_easy-resize.com.jpg",
           "link": "https://cristianeresende.com.br/todos-os-vestidos"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/48h-mobile.jpg",
+          "link": "https://bit.ly/desconto_janeiro_cr",
+          "mobile_img": "/img/uploads/48h-pc.jpg"
         }
       ],
       "full_width": true

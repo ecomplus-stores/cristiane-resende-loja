@@ -138,7 +138,7 @@
   .prices {
     & strong {
       &:after {
-        content: "no cartão";
+        content: "";
         font-weight: normal;
       }
     order: 2;

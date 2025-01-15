@@ -4,11 +4,11 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 2000,
+      "autoplay": 0,
       "slides": [
         {
-          "start": "2024-11-28T12:37:44.997Z",
-          "end": "",
+          "start": "",
+          "end": "2025-01-15T12:47:06.524Z",
           "mobile_img": "/img/uploads/capas-site-2.jpg",
           "img": "/img/uploads/capas-site-1.jpg",
           "link": "https://cristianeresende.com.br/colecao-mulher-de-luz"

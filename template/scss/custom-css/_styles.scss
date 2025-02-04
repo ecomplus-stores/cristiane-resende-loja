@@ -191,3 +191,12 @@ display: none !important
 .login-modal__btn--facebook, .login-modal__btn--google, .login-modal__btn--windowslive, .login__oauth {
   display: none !important;
 }
+i.header__toggler-icon.i-bars {
+color:  #ba984d;
+}
+.header #cart-button i, .header #user-button i, .header__toggler-icon {
+    color: #ba984d;
+}
+.header__buttons .btn {
+  color:  #ba984d;
+}

@@ -101,7 +101,7 @@
 }
 #inicio {
   background: #ba984d;
-  color: #ba984d;
+  color: #f0d8da;
 }
 .products-carousel__title {
   & a {
@@ -192,5 +192,8 @@ display: none !important
   display: none !important;
 }
 i.header__toggler-icon.i-bars {
+color:  #ba984d;
+}
+.header__buttons .btn{
 color:  #ba984d;
 }

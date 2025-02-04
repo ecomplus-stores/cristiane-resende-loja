@@ -58,7 +58,7 @@
 }
 .header {
   & #user-button i, & #cart-button i, &__toggler-icon {
-    color: #fff;
+    color: #ba984d;
   }
   background: #f0d8da
 }
@@ -70,7 +70,7 @@
   }
   &__countdown, &__nav {
     background: #f0d8da !important;
-    color: #fff;
+    color: #ba984d;
   }
   background: #f0d8da !important;
 }
@@ -84,23 +84,23 @@
   border-radius: 0;
 }
 .header__search-btn {
-  color: #333;
+  color: #ba984d;
 }
 .header__nav a {
   &:hover {
-    background: #fff;
+    background: #ba984d;
     color: #f0d8da;
   }
   padding: 10px 16px;
-  color: #fff;
+  color: #ba984d;
   border-radius: 0;
 }
 .menu__list a:hover {
   background: #f0d8da;
-  color: #fff;
+  color: #ba984d;
 }
 #inicio {
-  background: #fff;
+  background: #ba984d;
   color: #ba984d;
 }
 .products-carousel__title {
@@ -193,10 +193,4 @@ display: none !important
 }
 i.header__toggler-icon.i-bars {
 color:  #ba984d;
-}
-.header #cart-button i, .header #user-button i, .header__toggler-icon {
-    color: #ba984d;
-}
-.header__buttons .btn {
-  color:  #ba984d;
 }

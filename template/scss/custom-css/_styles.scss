@@ -115,8 +115,11 @@
   text-align: start;
 }
 .footer {
+   &__title {
   color: #ba984d;
+  }
   background: #f0d8da;
+  color: #ba984d;
 }
 .product-card, .products-carousel__item {
   padding: 0;

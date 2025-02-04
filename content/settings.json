@@ -1,7 +1,7 @@
 {
   "domain": "cristianeresende.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#313131",
+  "primary_color": "#f0d8da",
   "theme": {
     "bootswatch": "_",
     "custom": "_"

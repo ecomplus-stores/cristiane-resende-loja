@@ -60,7 +60,7 @@
   & #user-button i, & #cart-button i, &__toggler-icon {
     color: #fff;
   }
-  background: #a07671
+  background: #f0d8da
 }
 .top-bar {
   @media (min-width: 768px) {
@@ -69,10 +69,10 @@
     }
   }
   &__countdown, &__nav {
-    background: #a07671 !important;
+    background: #f0d8da !important;
     color: #fff;
   }
-  background: #a07671 !important;
+  background: #f0d8da !important;
 }
 .product__buy button {
   background: green;
@@ -89,19 +89,19 @@
 .header__nav a {
   &:hover {
     background: #fff;
-    color: #a07671;
+    color: #f0d8da;
   }
   padding: 10px 16px;
   color: #fff;
   border-radius: 0;
 }
 .menu__list a:hover {
-  background: #a07671;
+  background: #f0d8da;
   color: #fff;
 }
 #inicio {
   background: #fff;
-  color: #a07671;
+  color: #f0d8da;
 }
 .products-carousel__title {
   & a {

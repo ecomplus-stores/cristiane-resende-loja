@@ -224,8 +224,20 @@ color:  #ba984d;
 .app__header {
   background: #f0d8da !important;
 }
-
 .app__header,
 .app__header * {
   color: #ba984d !important;
+}
+//ajustar botão frete
+.input-group {
+    display: flex;
+    align-items: center;
+}
+.shipping-calculator__input {
+    border: 1px solid #ba984d; 
+    border-radius: 5px; 
+}
+.input-group-append button {
+    height: 100%; 
+    border-radius: 5px; 
 }

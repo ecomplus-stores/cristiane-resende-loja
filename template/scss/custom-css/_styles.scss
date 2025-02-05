@@ -115,15 +115,20 @@
   text-align: start;
 }
 .footer {
-   &__title {
-  color: #ba984d;
-  }
   background: #f0d8da;
+  color: #ba984d;
 }
-.list-unstyled,
-.footer__links,
-.footer__store {
-    color: #ba984d;
+
+.footer a,
+.footer p,
+.footer__title,
+.footer__contacts,
+.footer__store,
+.footer__links li a,
+.footer__links i,
+.list-unstyled li,
+.footer__social a {
+  color: #ba984d !important;
 }
 .product-card, .products-carousel__item {
   padding: 0;

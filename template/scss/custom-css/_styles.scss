@@ -222,6 +222,10 @@ color:  #ba984d;
   border: 1px solid #BA984D;
 }
 .app__header {
-    background: #f0d8da !important;
-    color: #ba984d;
+  background: #f0d8da !important;
+}
+
+.app__header,
+.app__header * {
+  color: #ba984d !important;
 }

@@ -7,6 +7,13 @@
       "autoplay": 1000,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/capa-site-pc-1-.png",
+          "mobile_img": "/img/uploads/capa-site-mobile-.png",
+          "link": "https://cristianeresende.com.br/colecao-fluir"
+        },
+        {
           "start": "2025-01-17T13:41:20.126Z",
           "end": "",
           "mobile_img": "/img/uploads/capa-colecao-mulher-de-luz-mobile.jpg",
@@ -40,13 +47,6 @@
           "img": "/img/uploads/48h-mobile.jpg",
           "link": "https://bit.ly/desconto_janeiro_cr",
           "mobile_img": "/img/uploads/48h-pc.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/capa-site-pc-1-.png",
-          "mobile_img": "/img/uploads/capa-site-mobile-.png",
-          "link": "https://cristianeresende.com.br/colecao-fluir"
         }
       ],
       "full_width": true

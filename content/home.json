@@ -82,7 +82,8 @@
       "title": "LANÇAMENTOS DO MÊS",
       "sort": "news",
       "collection_id": "67a0b4b253d3dd5b9c59b833:categories:COLEÇÃO FLUIR:/colecao-fluir",
-      "limit": 6
+      "limit": 6,
+      "autoplay": 2000
     },
     {
       "type": "collection-shelf",

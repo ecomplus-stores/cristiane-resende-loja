@@ -100,7 +100,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "5f2ae831f023684cdbd77d08:categories:VESTIDOS FLUÍDOS:/vestidos-fluidos",
-      "title": "OS VESTIDOS FLUÍDOS MAIS LINDOS"
+      "title": "OS VESTIDOS FLUÍDOS MAIS LINDOS",
+      "autoplay": 2000
     }
   ]
 }

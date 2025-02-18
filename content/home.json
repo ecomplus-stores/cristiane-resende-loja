@@ -88,18 +88,19 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "5f2ae831f023684cdbd77d08:categories:VESTIDOS FLUÍDOS:/vestidos-fluidos",
-      "title": "OS VESTIDOS FLUÍDOS MAIS LINDOS"
+      "limit": 11,
+      "page": 3,
+      "collection_id": "623cb4412e405e04fff915db:categories:TODOS OS MODELOS:/todos-os-modelos",
+      "title": "TODOS OS MODELOS",
+      "autoplay": 2000
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 1,
-      "page": "",
-      "collection_id": "623cb4412e405e04fff915db:categories:TODOS OS MODELOS:/todos-os-modelos",
-      "title": "TODOS OS MODELOS"
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f2ae831f023684cdbd77d08:categories:VESTIDOS FLUÍDOS:/vestidos-fluidos",
+      "title": "OS VESTIDOS FLUÍDOS MAIS LINDOS"
     }
   ]
 }

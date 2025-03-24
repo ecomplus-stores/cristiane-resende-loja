@@ -55,18 +55,18 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/capa-pequena-2-2-_easy-resize.com-1-.jpg",
+          "img": "/img/uploads/fluidos_easy-resize.com.jpg",
           "alt": "Vestidos Fluídos",
           "link": "https://cristianeresende.com.br/vestidos-fluidos"
         },
         {
-          "img": "/img/uploads/capa-pequena-2_easy-resize.com.jpg",
+          "img": "/img/uploads/justos_easy-resize.com.jpg",
           "alt": "Vestidos Justos",
           "link": "https://cristianeresende.com.br/vestidos-justos",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/capa-pequena-3_easy-resize.com-1-.jpg",
+          "img": "/img/uploads/todos_easy-resize.com.jpg",
           "alt": "Todos os Modelos",
           "link": "https://cristianeresende.com.br/todos-os-vestidos"
         }
